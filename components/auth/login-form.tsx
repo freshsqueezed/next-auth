@@ -1,4 +1,4 @@
-import { CardWrapper } from "./card-wrapper";
+import { CardWrapper } from './card-wrapper';
 
 export const LoginForm = () => {
   return (
